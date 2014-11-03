@@ -1,4 +1,0 @@
-bioauctions
-===========
-
-Biological auctions
