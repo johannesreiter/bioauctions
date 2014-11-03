@@ -6,6 +6,7 @@ Created on Jan 30, 2014
 
 import logging
 import sys
+
 from bioauctions import run_simulation
 
 

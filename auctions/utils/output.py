@@ -1,11 +1,11 @@
 __author__ = 'jreiter'
 
-
 import logging
 import os
 import csv
 import numpy as np
 import settings
+
 
 # get logger for biological auction simulation
 logger = logging.getLogger('bioaucmult')

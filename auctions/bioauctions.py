@@ -111,7 +111,7 @@ def produce_new_generation(pop_strategies, pop_fitnesses, mutation_rate, max_str
         if next_mut_event <= 0:                  # mutation event
             next_mut_event += random.expovariate(mutation_rate)
             # generate random strategy
-            new_strategies[ind] = (np.random.randint(int((no_strategies-1)*max_strategy_value)+1) \
+            new_strategies[ind] = (np.random.randint(int((no_strategies-1)*max_strategy_value)+1)
                                    / (no_strategies - 1.0))
         else:                                   # no mutation event
             # generate strategy proportional to the fitness of last generation
