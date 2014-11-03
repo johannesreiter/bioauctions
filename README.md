@@ -10,7 +10,9 @@
 
 ```Usage: python auctions [<generations> <population_size> <#participants> <#auctions> <#rewards> <value_difference> <mutation_rate>] -O```
 
-```Example: python auctions -O 1000000 100 5 100 3 0.25 0.005 -O```
+```Example: python auctions -O 1000000 1000 5 1000 3 0.25 0.005```
+Simulates 1000000 generations of a population with 1000 individuals, 1000 auctions per generation, 5 participants per auction,
+rewards with values 1.0, 0.75, 0.5 and a mutation rate of 0.5%.
 
 
 Author: Johannes Reiter, IST Austria, [http://pub.ist.ac.at/~jreiter](http://pub.ist.ac.at/~jreiter)  
