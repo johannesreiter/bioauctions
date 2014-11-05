@@ -1,4 +1,10 @@
-## Multiple rewards in Biological Auctions
+## Biological Auctions
+Biological all-pay auctions are used to model situations where 
+multiple individuals compete for resources.
+For more information on biological auctions see Chatterjee et al. 
+(Evolutionary Dynamics of Biological Auctions, Theoretical Population Biology, 2012, 
+[doi:10.1016/j.tpb.2011.11.003](http://dx.doi.org/10.1016/j.tpb.2011.11.003), 
+[pdf](http://pub.ist.ac.at/~jreiter/publications/bioauctions_2012.pdf)).
 
 
 ### The easiest way to run the computer simulation:
