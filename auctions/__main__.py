@@ -99,7 +99,7 @@ if __name__ == '__main__':
         if no_parts < 2:
             raise ValueError("At least two participants have to compete in an auction.")
         if pop_size < no_parts:
-            raise ValueError("Population needs to be larger than the participants per auction.")
+            raise ValueError("Population needs to be larger or equal than the number of participants per auction.")
         if no_aucts < 1:
             raise ValueError("Please provide a positive number for the number of auctions per generation.")
         if mut_rate < 0.0 or mut_rate > 1:
