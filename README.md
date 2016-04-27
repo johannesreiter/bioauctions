@@ -2,9 +2,10 @@
 Biological all-pay auctions are used to model situations where 
 multiple individuals compete for resources.
 For more information on biological auctions see Chatterjee et al. 
-(Evolutionary Dynamics of Biological Auctions, Theoretical Population Biology, 2012, 
-[doi:10.1016/j.tpb.2011.11.003](http://dx.doi.org/10.1016/j.tpb.2011.11.003), 
-[pdf](http://pub.ist.ac.at/~jreiter/publications/bioauctions_2012.pdf)).
+([Evolutionary Dynamics of Biological Auctions](http://dx.doi.org/10.1016/j.tpb.2011.11.003), *Theoretical Population Biology*, 2012, 
+[pdf](http://pub.ist.ac.at/~jreiter/publications/bioauctions_2012.pdf))
+and Reiter et al. ([Biological auctions with multiple rewards](http://dx.doi.org/10.1098/rspb.2015.1041), *Proceedings of the Royal Society B*, 2015,
+[pdf](http://pub.ist.ac.at/~jreiter/publications/reiter_bioauctions_rspb2015.pdf).
 
 
 ### The easiest way to run the computer simulation:
